@@ -1,5 +1,5 @@
 const BASE_URL = "https://llm-2-0.vercel.app/api/chat"
-const PASSWORD = "" // enter password here
+const PASSWORD = "" // enter api password here
 
 const HEADERS = {
   "Content-Type": "application/json",
